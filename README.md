@@ -1,5 +1,6 @@
-### 📊 Mis estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=illousky&show_icons=true&theme=radical)
+### 📊 My Github Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=illousky&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true)
 
 ![Commits por lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=illousky&layout=compact&theme=radical)
 
