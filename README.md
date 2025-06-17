@@ -4,5 +4,6 @@
 
 ![Commits por lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=illousky&layout=compact&theme=radical)
 
-![Actividad](https://github-activity-graph.vercel.app/graph?username=illousky&theme=tokyo-night&area=true&hide_border=true)
+![Actividad](https://github-activity-graph.vercel.app/graph?username=illousky&theme=tokyo-night&area=true)
+
 
